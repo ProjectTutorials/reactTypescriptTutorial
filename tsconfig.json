@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "public/trash/react-app-env.d.ts"  ]
 }
